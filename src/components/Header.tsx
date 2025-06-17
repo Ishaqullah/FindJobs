@@ -53,7 +53,7 @@ const Header: React.FC = () => {
             </div>
 
 
-            <button  className="bg-blue-600 bg-[#0154AA] text-white px-4 py-0 rounded-md text-sm font-medium hover:bg-blue-700 transition-colors h-[29px]">
+            <button  className="bg-[#0154AA] text-white px-4 py-0 rounded-md text-sm font-medium hover:bg-blue-700 transition-colors h-[29px]">
               Resume Builder
             </button>
 

@@ -10,10 +10,10 @@ function App() {
       <Header />
 
       <div className="flex justify-center">
-        <div className="flex w-full max-w-7xl">
+        <div className="flex flex-col lg:flex-row w-full max-w-7xl">
           <Sidebar user={mockUser} />
 
-          <main className="flex-1 p-8">
+          <main className="flex-1 p-4 lg:p-8">
             <div className="max-w-5xl mx-auto">
               <SearchForm />
 
